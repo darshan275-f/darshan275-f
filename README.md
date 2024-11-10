@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me <LLinkedin>
+- 📫 How to reach me ~~Linkedin~~
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: kabhi aisa nahi hua jo fun bol saku
 
