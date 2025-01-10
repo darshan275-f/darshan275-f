@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Linkedin**
 
-- ⚡ Fun fact **I love Sleeping**
+- ⚡ **I love to code with chai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
