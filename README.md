@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Darshan Jomaling Patil</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **Nodejs , Expressjs and mongodb**
+- 💬 Ask me about **React ,Nodejs , Expressjs and mongodb**
 
 - 📫 How to reach me **Linkedin**
 
-- ⚡ **I love to code with chai**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
