@@ -11,14 +11,14 @@
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
+- **Languages**: JavaScript, Java
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Kubernetes
+- **Tools**: Git, Docker
 
 ## Get in Touch
 
-
+- **Leetcode**: [[Darshan](https://leetcode.com/u/darshan_patil_275/)]
 - **LinkedIn**: [[Darshan](https://www.linkedin.com/in/darshan-jomaling-patil-b82209282/)]
 
 
