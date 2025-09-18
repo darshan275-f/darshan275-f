@@ -1,13 +1,9 @@
 # Hi there, I'm Darshan 👋
 
-🚀 Passionate about coding and constantly learning new technologies.
 
 ## About Me
 
-- 💻 I'm a software developer with a focus on backend development.
-- 🌱 Currently working with Node.js, Express, and MongoDB.
-- 💬 Ask me about anything related to backend development and APIs.
-- 👯 I’m looking to collaborate on open-source projects.
+ Currently working with Node.js, Express,Reactjs and MongoDB.
 
 ## Skills
 
